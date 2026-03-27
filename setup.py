@@ -25,7 +25,7 @@ setup(
         'bitcoin==1.1.42',
         'blockstack-recover==1.0.0',
         'cachetools==4.2.1',
-        'ecdsa==0.16.1',
+        'ecdsa==0.19.2',
         'pycrypto==2.6.1',
         'six==1.15.0',
         'utilitybelt==0.2.6',
